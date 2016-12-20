@@ -8,7 +8,7 @@ gem 'coffee-rails', '4.2.1'
 gem 'coffee-script-source', '1.11.1'
 gem 'sass-rails', '5.0.6'
 gem 'uglifier', '3.0.0'
-# Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
+# Build JSON APIs with ease. Read more: https://github.com/rails/ jbuilder
 gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
 gem 'active_model_serializers'
@@ -19,7 +19,9 @@ group :doc do
 end
 
 group :development, :test do
-  gem 'rspec-rails', '~> 3.5'
+  gem 'factory_girl_rails'
+  gem 'rspec-rails', '~> 3.5', '>= 3.5.1'
+  gem 'shoulda-matchers'
   gem 'faker', '1.6.6'
   gem 'byebug', platform: :mri
 end
