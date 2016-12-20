@@ -56,8 +56,8 @@ To uninstall Pow, `curl get.pow.cx/uninstall.sh | sh`
 
 ## Support
 
-Please open or respond to [an issue](https://github.com/ThuyNT13/micro_blogette/issues) for support.
+Please open or respond to [an issue](https://github.com/ThuyNT13/shopping_cart_api/issues) for support.
 
 ## Contributing
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and open a [pull request](https://github.com/ThuyNT13/micro_blogette/pulls). Don't push to master.
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and open a [pull request](https://github.com/ThuyNT13/shopping_cart_api/pulls). Don't push to master.
