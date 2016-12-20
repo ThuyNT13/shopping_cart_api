@@ -20,7 +20,7 @@ end
 
 group :development, :test do
   gem 'factory_girl_rails'
-  gem 'rspec-rails', '~> 3.5'
+  gem 'rspec-rails', '~> 3.5', '>= 3.5.1'
   gem 'shoulda-matchers'
   gem 'faker', '1.6.6'
   gem 'byebug', platform: :mri
